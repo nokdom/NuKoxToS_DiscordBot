@@ -4,7 +4,9 @@ Términos de servicio de NuKox, creado por NokDom.
 
 Términos de Servicio de NuKox
 
-Última actualización: 7 de septiembre de 2026
+Primera actualización: 7 de septiembre de 2026
+Última actualización: 27 de septiembre de 2026
+Actualización: NoKDoM Foundation ha demandado y comprado NokDom. NokDom ha dejado de existir y fue remplazado por NoKDoM, ahora el bot incluye los Términos de Servicio y Políticas de Privacidad de NoKDoM y NoKDoM Foundation. Estos ToS aún no han sido aprobados por NoKDoM Foundation PERO sí están en uso. Cualquier queja no será atendida al estod términos de servicio no ser propiedad total de NoKDoM Foundation.
 
 Al utilizar o interactuar con NuKox, aceptas los presentes Términos de Servicio.
 
